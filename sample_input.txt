@@ -1,0 +1,11 @@
+4 6
+0 1 10
+0 2 15
+0 3 20
+1 2 31
+1 3 25
+2 3 26
+
+The first line consists of N and M [N Vertices, M Edges]
+The remaining M lines consists of x,y,z
+where x is EDGE source, y is EDGE destination, z is EDGE weight
